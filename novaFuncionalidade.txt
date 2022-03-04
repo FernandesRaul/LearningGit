@@ -1,1 +1,3 @@
 Implemento de funcionalidade.
+digite a senha
+digite a idade
